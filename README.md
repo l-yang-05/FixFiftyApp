@@ -45,8 +45,16 @@ npm start
 ```
 This starts both the server and the client react app thanks to our scripts and the dependency concurrently.
 
-## Our Team
-Skyler Stevens, Lucy Yang, Jonathan Morales, Aaliyah McCray, Jonathan Giler
+## Built With
+
+* [React](https://github.com/facebook/react) - The framework used
+* [NodeJS](https://github.com/nodejs/node) - The development for server
+* [Express & Express Router](https://github.com/expressjs/express) - Used to create endpoints
+* [Concurrently](https://github.com/kimmobrunfeldt/concurrently) - Used to run servers at the same time
+
+## Author
+* [Lucy Yang](https://github.com/l-yang-05)
+
 
 ## License
 [MIT](https://github.com/SkylerCStevens/Fix-Fifty-App/blob/master/LICENSE)
