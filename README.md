@@ -51,6 +51,10 @@ This starts both the server and the client react app thanks to our scripts and t
 * [NodeJS](https://github.com/nodejs/node) - The development for server
 * [Express & Express Router](https://github.com/expressjs/express) - Used to create endpoints
 * [Concurrently](https://github.com/kimmobrunfeldt/concurrently) - Used to run servers at the same time
+* [MongoDbAtlas](https://www.mongodb.com/cloud/atlas) - Database
+* [Mongoose](https://mongoosejs.com/) - Helped manipulate database
+* [Material UI](https://material-ui.com/) - Styling on app
+* [Passport](https://www.npmjs.com/package/passport) - Authentication for app
 
 ## Author
 * [Lucy Yang](https://github.com/l-yang-05)
