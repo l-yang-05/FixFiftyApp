@@ -56,6 +56,13 @@ This starts both the server and the client react app thanks to our scripts and t
 * [Material UI](https://material-ui.com/) - Styling on app
 * [Passport](https://www.npmjs.com/package/passport) - Authentication for app
 
+## Proposal
+* [Proposal](https://docs.google.com/document/d/1-H_KQOKNLhcW2E5N2wVC8EJOMko52lT8BuZAoHtmsgM/edit)
+
+## Live Demo Video
+* [Video](https://www.youtube.com/watch?v=oDis6TNTPyk&t=1s)
+
+
 ## Author
 * [Lucy Yang](https://github.com/l-yang-05)
 
